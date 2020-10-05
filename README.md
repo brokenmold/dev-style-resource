@@ -9,6 +9,12 @@ A compiled index of awesome front-end style tools &amp; resources.
 
 * [Emmet Syntax](https://docs.emmet.io/cheat-sheet/) - Official syntax cheatsheet from Emmet docs.
 
+
+## CSS ##
+
+* [Flexbox Patterns](https://www.flexboxpatterns.com) - Common flexbox patterns with code examples and style guides.
+
+
 ## Typography ##
 
 ### Font Pairings ###
