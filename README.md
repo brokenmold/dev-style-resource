@@ -12,6 +12,7 @@ A compiled index of awesome front-end style tools &amp; resources.
 
 ## CSS ##
 
+* [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - CSS Tricks coming in for the win again with this One Sheet. This get's a Google #1 Rank for 'flexbox', even above w3 and mdn. Also available in glossy poster form ya nerds.
 * [Flexbox Patterns](https://www.flexboxpatterns.com) - Common flexbox patterns with code examples and style guides.
 
 ## SVG ##
