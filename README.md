@@ -7,7 +7,7 @@ Contributions must have free resources available, though may include additional 
 
 ## Syntax Cheatsheets ##
 
-* [Markdown Syntax](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf) - PDF cheatsheet provided by GitHub for formating ReadMe files. Also useful for other general Markdown applications.
+* [Markdown Syntax](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf) - PDF cheatsheet provided by GitHub for formatting ReadMe files. Also useful for other general Markdown applications.
 
 * [Emmet Syntax](https://docs.emmet.io/cheat-sheet/) - Official syntax cheatsheet from Emmet docs.
 
@@ -23,8 +23,14 @@ Contributions must have free resources available, though may include additional 
 <hr/>
 
 
-## SVG ##
-* [SVG on The Web: A Practicle Guide](https://svgontheweb.com) - Deep Dive introduction into the world of using SVG in your web project!
+## Imagry ##
+
+### Stock Images (Royaly Free) ###
+
+* [Unsplash](https://unsplash.com) - The Go-to royalty-free stock image library boasting over 2 Million images.
+
+### SVG ###
+* [SVG on The Web: A Practical Guide](https://svgontheweb.com) - Deep Dive introduction into the world of using SVG in your web project!
 
 <hr/>
 
