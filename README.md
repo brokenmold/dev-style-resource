@@ -39,6 +39,7 @@ Contributions must have free resources available, though may include additional 
 
 ### Icons ###
 * [Heroicons](https://heroicons.com) - Tailwind's collection of free SVG icons, available in 2 weights.
+* [Potlab Icons](http://www.potlabicons.com) - A small but sweet collection of animated icons.
 * [Zondicons](http://www.zondicons.com) - Another nice set of SVG Icons by Steve Schoger. Downloadable & free!
 
 <hr/>
