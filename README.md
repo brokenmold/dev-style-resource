@@ -37,6 +37,9 @@ Contributions must have free resources available, though may include additional 
 ### SVG ###
 * [SVG on The Web: A Practical Guide](https://svgontheweb.com) - Deep Dive introduction into the world of using SVG in your web project!
 
+### Icons ###
+* [Zondicons](http://www.zondicons.com) - A nice set of SVG Icons by Steve Schoger. Downloadable & free!
+
 <hr/>
 
 
