@@ -18,6 +18,7 @@ Contributions must have free resources available, though may include additional 
 
 ### Color Palette Tools ###
 
+* [CSS Gradient](https://cssgradient.io) - A fantasticly color gradient picker ui and css generator.
 * [Colormind](http://colormind.io) - Color palette generator with mockups for usage visualization.
 * [AI Color Wheel](https://brandmark.io/color-wheel) - Image-based color palette generator with random image gallery and unload option.
 
