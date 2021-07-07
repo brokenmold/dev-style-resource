@@ -35,6 +35,7 @@ Contributions must have free resources available, though may include additional 
 ### Stock Images (Royaly Free) ###
 
 * [Unsplash](https://unsplash.com) - The Go-to royalty-free stock image library boasting over 2 Million images.
+* [Pexels](https://www.pexels.com) - 1 Million stock images and growing. Royalty-free and comercially available.
 
 ### SVG ###
 * [SVG on The Web: A Practical Guide](https://svgontheweb.com) - Deep Dive introduction into the world of using SVG in your web project!
