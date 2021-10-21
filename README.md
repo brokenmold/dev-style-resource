@@ -52,3 +52,11 @@ Contributions must have free resources available, though may include additional 
 
 ### Font Pairings ###
 * [Font Joy](https://fontjoy.com) - Excellent Google Fonts pairing tool with generator and custom type.
+
+<hr/>
+
+
+## UI ##
+
+### Data Visualization ###
+* [Chart.js](https://www.chartjs.org) - Open source collection of javascript based charts
